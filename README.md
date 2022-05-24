@@ -1,10 +1,10 @@
 # Project: Sierra Nevada Roof Pendant BMI-Microbe 
 This repository contains data (supplementary tables) and novel code pertaining to the manuscript tentatively titled "Synecological response of spring benthic prokaryotes and macroinvertebrates to Paleozoic roof pendant-derived calcium". Will update with DOI after publication. 
 
-## Data folder
-Description: Data, aka the supplementary tables (in '.xlsx' format), are included within this folder. 
+## Data S1 folder
+Description: Data S1, aka the supplementary tables (in '.xlsx' format), are included within this folder. 
 
-## Novel code folder
+## NovelRCode folder
 Novel code filename: plot_cladogram_modified.R
 
 Author: Cale Seymour, University of Nevada Las Vegas
