@@ -1,5 +1,5 @@
 # Project: Sierra Nevada Roof Pendant BMI-Microbe 
-This repository contains data (supplementary tables) and novel code pertaining to the manuscript tentatively titled "Synecological response of desert spring benthic prokaryotes and macroinvertebrates to Sierra Nevada roof pendant-derived calcium". Will update with DOI after publication. 
+This repository contains data (supplementary tables) and novel code pertaining to the manuscript tentatively titled "Synecological response of spring benthic prokaryotes and macroinvertebrates to Paleozoic roof pendant-derived calcium". Will update with DOI after publication. 
 
 ## Data folder
 Description: Data, aka the supplementary tables (in '.xlsx' format), are included within this folder. 
